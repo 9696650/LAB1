@@ -19,7 +19,7 @@ int main()
 
     
     word.To_Upper();
-    cout << "2 girls 1 CAPS : " << word.Get_Word() << endl;
+    cout << "CAPS : " << word.Get_Word() << endl;
 
     
     word.Replace_Char('a', '@');

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LAB 1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC222655-51D5-4852-9298-4EE989298FB7}|LAB 1.2\\LAB 1.2.csproj|c:\\users\\user\\source\\repos\\lab 1.2\\lab 1.2\\ppogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC222655-51D5-4852-9298-4EE989298FB7}|LAB 1.2\\LAB 1.2.csproj|solutionrelative:lab 1.2\\ppogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC222655-51D5-4852-9298-4EE989298FB7}|LAB 1.2\\LAB 1.2.csproj|c:\\users\\user\\source\\repos\\lab 1.2\\lab 1.2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC222655-51D5-4852-9298-4EE989298FB7}|LAB 1.2\\LAB 1.2.csproj|solutionrelative:lab 1.2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ppogram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LAB 1.2\\LAB 1.2\\Ppogram.cs",
+              "RelativeDocumentMoniker": "LAB 1.2\\Ppogram.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LAB 1.2\\LAB 1.2\\Ppogram.cs*",
+              "RelativeToolTip": "LAB 1.2\\Ppogram.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:54:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LAB 1.2\\LAB 1.2\\Class1.cs",
+              "RelativeDocumentMoniker": "LAB 1.2\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LAB 1.2\\LAB 1.2\\Class1.cs",
+              "RelativeToolTip": "LAB 1.2\\Class1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:47:20.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
