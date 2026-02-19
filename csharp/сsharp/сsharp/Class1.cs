@@ -10,7 +10,7 @@ namespace сsharp
 
     namespace StringLab
     {
-        public class StringHandler
+        class StringHandler
         {
         
             private string _data;
