@@ -22,9 +22,7 @@ int main()
     cout << "CAPS : " << word.Get_Word() << endl;
 
     
-    word.Replace_Char('a', '@');
-    word.Replace_Char('A', '@');
-    cout << "After replacement: " << word.Get_Word() << endl;
+  
 
     return 0;
 }
