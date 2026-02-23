@@ -16,6 +16,5 @@ public:
     size_t Get_Length();
 
     void To_Upper();
-    void Replace_Char(char oldChar, char newChar);
+   
 };
-
