@@ -1,40 +1,26 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace сsharp
+
+namespace csharp
 {
-
-    namespace StringLab
+    class Program
     {
-        class Program
+        static void Main(string[] args) 
         {
-            static void Main(string[] args)
-            {
             
-                Console.Write("Write a word: ");
-                string input = Console.ReadLine() ?? "";
+            Console.Write("Write a word: ");
+            string input = Console.ReadLine();
 
-                /
-                StringHandler handler = new StringHandler(input);
+            MyString myStr = new MyString(input);
 
+            Console.WriteLine("CAPS :  " + myStr.GetText());
+            Console.WriteLine("Length : " + myStr.GetLength());
 
-                Console.WriteLine($"CAPS: {handler.GetUpperCaseValue()}");
-
-               
-                Console.WriteLine($"Length: {handler.GetLength()}");
-
-                handler.ReplaceChar('A', '@');
-                handler.ReplaceChar('a', '@');
-
-              
-
-                Console.WriteLine($"After replacement: {handler.GetCurrentValue()}");
-
-             
-            }
+           
         }
     }
 }
