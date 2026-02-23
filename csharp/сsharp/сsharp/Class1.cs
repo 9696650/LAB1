@@ -1,49 +1,36 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace сsharp
+
+
+namespace csharp
 {
-  
-
-    namespace StringLab
+    public class MyString
     {
-        class StringHandler
+       
+        private string text;
+
+       
+        public MyString(string input)
         {
-        
-            private string _data;
-
-            
-            public StringHandler(string input)
-            {
-                _data = input;
-            }
-
-            
-            public string GetUpperCaseValue()
-            {
-                return _data.ToUpper();
-            }
-
-            
-            public int GetLength()
-            {
-                return _data.Length;
-            }
-
-           
-            public void ReplaceChar(char oldChar, char newChar)
-            {
-                _data = _data.Replace(oldChar, newChar);
-            }
-
-            
-            public string GetCurrentValue()
-            {
-                return _data;
-            }
+            text = input.ToUpper(); 
         }
+
+        
+        public string GetText()
+        {
+            return text;
+        }
+
+        
+        public int GetLength()
+        {
+            return text.Length;
+        }
+
+       
     }
 }
